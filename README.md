@@ -12,7 +12,7 @@ Our method is the first to implement knowledge distillation in Transformer struc
  
  - **We propose a novel feature distillation method based on the dynamic interaction between high-level semantics and low-level feature to keep the within-class consistency for incremental object detection task.**
 
- - **We propose a new between-class difference distillation method based on distance of high-level semantic feature to keep the between-class discriminativeness.**
+ - **We propose a new between-class difference distillation method based on distance matrix of high-level semantic feature to keep the between-class discriminativeness.**
 
 ## Overall Structure
 ![image](pic_for_paper/OverallStructure.png)

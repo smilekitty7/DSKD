@@ -15,7 +15,7 @@ Our method is the first to implement knowledge distillation in Transformer struc
  - **We propose a new between-class difference distillation method based on distance matrix of high-level semantic feature to keep the between-class discriminativeness.**
 
 ## Overall Structure
-![image](pic_for_paper/OverallStructure.png)
+![image](https://img-blog.csdnimg.cn/9a3433b021224a7a83c5c83157bf67f7.png)
 The overall framework of the proposed method is shown in the figure. 
  - **Between-Class Distance Distillation**
 
@@ -29,7 +29,7 @@ The overall framework of the proposed method is shown in the figure.
 
 We tested our methods under different experimental settings, like 40 classes+ 40 classes, 50 classes+ 30 classes, 60 classes+ 20 classes, and 70 classes+ 10 classes. Results are shown below. 
 
-![image](pic_for_paper/Results.png)
+![image](https://img-blog.csdnimg.cn/86bc76f740a646f6b1c6651f79d586f9.png)
 
 All these results show that our method exceeds the current SOTA method, ERD, demonstrating that our method has better capability of reducing catastrophic forgetting. Further details can be found in our paper. 
  

@@ -29,7 +29,7 @@ The overall framework of the proposed method is shown in the figure.
 
 We tested our methods under different experimental settings, like 40 classes+ 40 classes, 50 classes+ 30 classes, 60 classes+ 20 classes, and 70 classes+ 10 classes. Results are shown below. 
 
-![image]([https://img-blog.csdnimg.cn/86bc76f740a646f6b1c6651f79d586f9.png](https://img-blog.csdnimg.cn/f0759c3cff1a410996f60337e3b4d484.jpeg))
+![image](https://img-blog.csdnimg.cn/86bc76f740a646f6b1c6651f79d586f9.png](https://img-blog.csdnimg.cn/f0759c3cff1a410996f60337e3b4d484.jpeg)
 ###### (ERD is proposed in CVPR 2022: [Overcoming catastrophic forgetting in incremental object detectionn via elastic response distillation](https://arxiv.org/abs/2204.02136))
 
 All these results show that our method exceeds the current SOTA method, ERD, demonstrating that our method has better capability of reducing catastrophic forgetting. Further details can be found in our paper. 

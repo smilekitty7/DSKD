@@ -15,7 +15,8 @@ Our method is the first to implement knowledge distillation in Transformer struc
  - **We propose a new between-class difference distillation method based on distance matrix of high-level semantic feature to keep the between-class discriminativeness.**
 
 ## Overall Structure
-![image](https://img-blog.csdnimg.cn/9a3433b021224a7a83c5c83157bf67f7.png)
+## ![image](https://img-blog.csdnimg.cn/9a3433b021224a7a83c5c83157bf67f7.png)
+![image](https://img-blog.csdnimg.cn/37e5b770f2e54ac494180f4080246a4d.jpeg)
 The overall framework of the proposed method is shown in the figure. 
  - **Between-Class Distance Distillation**
 
